@@ -1,4 +1,6 @@
-# vue2-micro-frontend-percel-template
+# vue2-micro-frontend-parcel-template
+
+
 
 ## Project setup
 ```
